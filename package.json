@@ -1,5 +1,5 @@
 {
-    "name": "stratum-pool-pastel",
+    "name": "stratum-pool",
     "version": "0.2.0",
     "description": "High performance stratum pool server in Node.js, customized for use in Pastel Network",
     "keywords": [
